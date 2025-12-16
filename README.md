@@ -43,7 +43,7 @@ git clone https://github.com/ertazaahmad/my_projects.git
 
 ---
 
-##Philosophy
+## Philosophy
 
 Build. Break. Learn. Repeat.
 
@@ -51,7 +51,7 @@ This repository is continuously evolving as I improve my skills.
 
 ---
 
-##Author
+## Author
 
 Mohd Ertaza Ahmad
 GitHub → https://github.com/ertazaahmad
