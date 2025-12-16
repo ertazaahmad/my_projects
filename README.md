@@ -38,3 +38,19 @@ Clone the repository and explore individual project folders.
 
 ```bash
 git clone https://github.com/ertazaahmad/my_projects.git
+
+
+---
+
+Philosophy
+
+Build. Break. Learn. Repeat.
+
+This repository is continuously evolving as I improve my skills.
+
+---
+
+Author
+
+Arsh
+GitHub → https://github.com/ertazaahmad
