@@ -38,6 +38,7 @@ Clone the repository and explore individual project folders.
 
 ```bash
 git clone https://github.com/ertazaahmad/my_projects.git
+```
 
 
 ---
